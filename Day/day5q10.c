@@ -1,4 +1,4 @@
-// Day 6
+// Day 5
 // Q10 (User Inputs, Operations & Output)
 // Write a program to input time in seconds and convert it to hours:minutes:seconds format.
 
