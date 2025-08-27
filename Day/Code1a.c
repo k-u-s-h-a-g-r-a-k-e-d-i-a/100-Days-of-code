@@ -1,6 +1,6 @@
 //Day 1 
-// Q2 (User Inputs, Operations & Output)
-// Write a program to input two numbers and display their sum, difference, product, and quotient.
+// Q1 (User Inputs, Operations & Output)
+// Write a program to input two numbers and display their sum.
 
 #include <stdio.h>
 int main()
