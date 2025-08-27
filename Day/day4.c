@@ -1,6 +1,6 @@
-//Day 3
-//Q6(User Inputs, Operations & Output)
-//Write a program to swap two numbers using a third variable.
+//Day 4
+//Q7(User Inputs, Operations & Output)
+//Write a program to swap two numbers without using a third variable.
 #include <stdio.h>
 
 int main()
