@@ -12,7 +12,7 @@ int main()
     scanf("%d", &sec);
     
     // Calculate hours, minutes, and seconds
-    hours = total_seconds / 3600;
+    hours = sec / 3600;
     sec = sec % 3600;
     minutes = sec / 60;
     seconds = sec % 60;
